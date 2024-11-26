@@ -1,0 +1,48 @@
+body{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    padding-top: 5%;
+}
+
+.datos_equipo{
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 750%;
+    margin: 1%;
+    
+}
+
+.title_equipo{
+    margin-left: 3%;
+    font-size: 16px;
+    font-style: bold;
+    margin-top: 10%;
+    margin-bottom: -1.3%;
+}
+
+.cod_inv{
+    width: 30%;
+    margin-left: 30%;
+}
+
+.fcha{
+    width: 25%;
+    margin-left: 70%;
+    margin-top: -10%;
+}
+
+.datos{
+    width: 95%;
+    margin-top: 7%;
+    margin-left: 2%;
+}
+
+.func_equipo{
+    width: 95%;
+    margin-left: 2%;
+}
+
+
+
+
