@@ -63,7 +63,6 @@ body{
     margin-top: 2%;
     width: 70%;
     margin-left: 15%;
-    margin-bottom: 5%;
 }
 
 .title_conf{
@@ -139,4 +138,82 @@ body{
 .conf_part5 span{
     padding: 8.9% 3.5%;
     width: 50%;
+}
+
+/* Formulario #3 */
+
+.conf_red{
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 98%;
+    margin-top: 2%;
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+
+.title_red{
+    margin-left: 3%;
+    font-size: 18px;
+    font-style: bold;
+    margin-top: 4%;
+}
+
+.red_part1{
+    width: 32%;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+.red_part1 span{
+    width: 100%;
+    padding: 1% 30%;
+}
+
+.red_part1 input{
+    padding: 18.3%;
+}
+
+.red_part2{
+    width: 31%;
+    margin-left: 35%;
+    margin-top: -16.9%;
+}
+
+.red_part2 span{
+    width: 100%;
+    padding: 1% 30%;
+}
+
+.red_part2 input{
+    padding: 4%;
+}
+
+.red_part3{
+    width: 31%;
+    margin-left: 66%;
+    margin-top: -16.9%;
+}
+
+.red_part3 span{
+    width: 100%;
+    padding: 1% 30%;
+}
+
+.red_part3 input{
+    padding: 4%;
+}
+
+.red_part4{
+    width: 94%;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+.red_part4 span{
+    width: 100%;
+}
+
+.red_part4 input{
+    padding: 5%;
 }
